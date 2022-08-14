@@ -1,0 +1,1 @@
+# Satoshi-Ishizawa.github.io
