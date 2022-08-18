@@ -7,7 +7,4 @@ plugins:
 google_analytics: UA-....
 
 
-sitemap:
-    path: sitemap.xml
-    template: ./sitemap_template.xml
-    rel: false
+
